@@ -10,3 +10,6 @@
   <a href = "https://www.tiktok.com/@hanapz"><img align="center" src="https://simpleicons.org/icons/tiktok.svg" height="30" width="40" /></a>
   
 </p>
+<marquee><img src="https://media0.giphy.com/media/TkDVr6D3OgqEqcLIYP/giphy.gif" height="200"/></marquee>
+
+
